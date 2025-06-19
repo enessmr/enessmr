@@ -5,4 +5,4 @@
 
 <br>
 
-![GitHub Stats](https://raw.githubusercontent.com/enessmr/github-stats/master/generated/overview.svg#gh-dark-mode-only)![GitHub Stats Languages](https://raw.githubusercontent.com/enessmr/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![GitHub Stats](https://raw.githubusercontent.com/enessmr/github-stats/master/generated/overview.svg)![GitHub Stats Languages](https://raw.githubusercontent.com/enessmr/github-stats/master/generated/languages.svg)
