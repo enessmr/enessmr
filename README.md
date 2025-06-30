@@ -13,11 +13,11 @@
 
 
 
-<h3>My Stats Tier</h3>
+<h3>My Stats Tier & Streak</h3>
 <h2></h2>
 
 [![enessmr's GitHub stats](https://github-readme-stats.vercel.app/api?username=enessmr&theme=highcontrast)](https://github.com/enessmr/github-readme-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=enessmr)](https://git.io/streak-stats)
 
 
 
