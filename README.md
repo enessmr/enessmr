@@ -5,13 +5,17 @@
 
 <br>
 
-# Stats Languages And My Literal Stats
+<h3>Stats Languages And My Literal Stats</h3>
+<h2></h2>
+
 ![GitHub Stats](https://raw.githubusercontent.com/enessmr/github-stats/master/generated/overview.svg#gh-light-mode-only)![GitHub Stats Languages](https://raw.githubusercontent.com/enessmr/github-stats/master/generated/languages.svg#gh-light-mode-only)
 ![GitHub Stats](https://raw.githubusercontent.com/enessmr/github-stats/master/generated/overview.svg#gh-dark-mode-only)![GitHub Stats Languages](https://raw.githubusercontent.com/enessmr/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
 
-# My Stats Tier
+<h3>My Stats Tier</h3>
+<h2></h2>
+
 [![enessmr's GitHub stats](https://github-readme-stats.vercel.app/api?username=enessmr&theme=highcontrast)](https://github.com/enessmr/github-readme-stats)
 
 
