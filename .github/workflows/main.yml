@@ -1,18 +1,26 @@
-name: Generate Snake Game from GitHub Contributions Grid
+name: Generate GitHub Snake Game Images
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # Runs daily at midnight UTC
-  workflow_dispatch:       # Allows manual triggering
+    - cron: '0 0 * * *'  # daily at midnight UTC
+  workflow_dispatch:
 
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Generate Snake Game Image
-      uses: Platane/snk@v3.3.0
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        username: enessmr
+      - name: Generate Snake Game Images
+        uses: Platane/snk@v3
+        with:
+          github_user_name: enessmr           # replace with your GitHub username
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
+      - name: Upload Generated Images
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake-images
+          path: dist/
