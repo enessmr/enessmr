@@ -23,4 +23,4 @@
 
 
 # Repository Contribution Stats... but its glitched out
-![enessmr's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=enessmr&hide=B&theme=default)
+![](https://github-contributor-stats.vercel.app/api?username=enessmr&limit=5&theme=dark&combine_all_yearly_contributions=true)
