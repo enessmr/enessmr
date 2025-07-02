@@ -18,7 +18,7 @@
 
 [![enessmr's GitHub stats](https://github-readme-stats.vercel.app/api?username=enessmr&theme=highcontrast)](https://github.com/enessmr/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=enessmr)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=enessmr&theme=highcontrast)](https://git.io/streak-stats)
 
 
 
