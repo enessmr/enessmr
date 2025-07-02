@@ -16,9 +16,9 @@
 <h3>My Stats Tier & Streak</h3>
 <h2></h2>
 
-[![enessmr's GitHub stats](https://github-readme-stats.vercel.app/api?username=enessmr&theme=merko)](https://github.com/enessmr/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=enessmr&theme=merko)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=enessmr&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=enessmr&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=enessmr&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
