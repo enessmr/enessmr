@@ -35,3 +35,6 @@
 
 # Repository Contribution Stats... but its glitched out
 ![](https://github-contributor-stats.vercel.app/api?username=enessmr&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+![image](https://github.com/user-attachments/assets/4889bba4-146a-464f-8378-cea090d3fb45)
+PEAK DRAWING ABILITES 💀🔥
