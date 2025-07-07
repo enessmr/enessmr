@@ -36,6 +36,20 @@
 # Repository Contribution Stats... but its glitched out
 ![](https://github-contributor-stats.vercel.app/api?username=enessmr&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
+### Languages that i know (i didnt finish my css tutorial and i will never finish lol cuz i skipped to C to learn 💀 )
+| HTML5 | CSS3 |
+| ----- | ---- |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="100" width="100"> |
+
+
+
+<div>
+  <h2>unrelated</h2>
+  <h1></h1>
+</div>
+
+
 ![image](https://github.com/user-attachments/assets/8a741333-c7a1-4632-ba51-eebc0d53f627)
 
 PEAK DRAWING ABILITES 💀🔥
