@@ -53,3 +53,6 @@
 ![image](https://github.com/user-attachments/assets/8a741333-c7a1-4632-ba51-eebc0d53f627)
 
 PEAK DRAWING ABILITES 💀🔥
+
+top 1 song (ears rip at 1:40)
+https://m.youtube.com/watch?v=3mm-4XKwCis
