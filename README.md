@@ -33,7 +33,7 @@
 
 
 
-# Repository Contribution Stats... but its glitched out
+# Repository Contribution Stats
 ![](https://github-contributor-stats.vercel.app/api?username=enessmr&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
