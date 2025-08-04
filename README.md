@@ -3,6 +3,8 @@
 ### email
 enessmr22@proton.me
 
+# 1. I literally don't know how to talk to women (sorry for bad English)
+
 <div>
   <h3>Stats</h3>
   <h2></h2>
