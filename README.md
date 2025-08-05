@@ -50,6 +50,13 @@ enessmr22@proton.me
 | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="100" width="100"> |
 
 
+<div>
+  <h2>Q&A</h2>
+</div>
+<b>Q</b>: Is your every project Open Source?
+
+
+<b>A</b>: Yes.
 
 <div>
   <h2>unrelated</h2>
