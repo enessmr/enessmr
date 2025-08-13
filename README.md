@@ -3,7 +3,7 @@
 ### email
 enessmr22@proton.me
 
-# 1. I literally don't know how to talk to women (sorry for bad English)
+### 1. I literally don't know how to talk to women (sorry for bad English)
 
 <div>
   <h3>Stats</h3>
@@ -62,8 +62,6 @@ enessmr22@proton.me
   <h2>unrelated</h2>
   <h1></h1>
 </div>
-
-enessmr savage irl counter: idk (like 21016?)
 
 ![image](https://github.com/user-attachments/assets/8a741333-c7a1-4632-ba51-eebc0d53f627)
 
