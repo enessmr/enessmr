@@ -23,11 +23,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=enessmr&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
 
-<h3>My Literal Stats (shoutout to Jacob Strieb for the og repo :) )</h3>
-<h2></h2>
-
-![GitHub Stats](https://raw.githubusercontent.com/enessmr/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![GitHub Stats](https://raw.githubusercontent.com/enessmr/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+<
 
 
 
