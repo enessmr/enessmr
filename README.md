@@ -24,8 +24,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=enessmr&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
 
-<
-
 
 
 <h3>My Stats Tier & Streak</h3>
