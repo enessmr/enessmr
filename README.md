@@ -1,6 +1,6 @@
 ## About me(me)
 - I use Linux. You not probably know me for my [Hyprland configuration](https://github.com/enessmr/hyprmaterial3)
-- Grass? I havent touched that in 2mo but i did go outside 👻
+- Grass died from being touched in a day
 - I use vscode (fuck telemetry 💀😤)
 - I play switch games with an emu
 - On android i play SMM:WE
