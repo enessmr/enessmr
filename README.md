@@ -7,6 +7,8 @@
 - I (for some reason) like to make cursed mods for smo
 - On android i play SMM:WE
 - I want to give myself [ear damage](https://www.tiktok.com/@theasmr.fairy/video/7512258047440424238?lang=en) (I was joking)
+- Hey, FOSS Vsauce. Enessmr here. Vsauce, did you know google is a war crime for us? Or is it. *dramatic vsauce music*
+- But what IS a war crime? *tilts head* Well, according to FOSS users, it's when google knows you searched 'how to install arch linux' at 3am!
 
 <div>
   <h3>Stats</h3>
