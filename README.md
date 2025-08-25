@@ -1,4 +1,5 @@
 ## About me(me)
+- I am not joking, i hate clippy due to not oss
 - I use Linux. You not probably know me for my [Hyprland configuration](https://github.com/enessmr/hyprmaterial3)
 - Grass died from being touched in a day
 - I use vscode (fuck telemetry 💀😤)
