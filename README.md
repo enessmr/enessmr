@@ -5,7 +5,6 @@
 - I use Linux. You not probably know me for my [Hyprland configuration](https://github.com/enessmr/hyprmaterial3)
 - Grass died from being touched in a day
 - I use vscode (fuck telemetry 💀😤)
-- I wake up at 10am (i used to wake up at early but my sleep schedule got corrupted) and pass 14h like i dont have need to sleep
 - I play switch games with an emu
 - I (for some reason) like to make cursed mods for smo
 - On android i play SMM:WE
