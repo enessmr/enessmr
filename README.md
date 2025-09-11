@@ -1,6 +1,5 @@
 ### 🚧 needs refactoring 🚧
 
-
 ## About me(me)
 - I am not joking, i hate clippy due to not oss
 - I use Linux. You not probably know me for my [Hyprland configuration](https://github.com/enessmr/hyprmaterial3)
@@ -13,6 +12,7 @@
 - Hey, FOSS Vsauce. Enessmr here. Vsauce, did you know google is a war crime for us? Or is it. *dramatic vsauce music*
 - But what IS a war crime? *tilts head* Well, according to FOSS users, it's when google knows you searched 'how to install arch linux' at 3am!
 - I actually need help in qml
+- my bday is the day 9/11 happened (fr)
 
 <div>
   <h3>Stats</h3>
