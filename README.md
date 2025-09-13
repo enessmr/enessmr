@@ -5,7 +5,7 @@
 - I use Linux. You not probably know me for my [Hyprland configuration](https://github.com/enessmr/hyprmaterial3)
 - Grass died from being touched in a day
 - I use vscode (fuck telemetry 💀😤)
-- I play switch games with an emu
+- I play switch games with an emu (for example SMO bc i have 100+ hr playtime)
 - I (for some reason) like to make cursed mods for smo
 - On android i play SMM:WE
 - I want to give myself [ear damage](https://www.tiktok.com/@theasmr.fairy/video/7512258047440424238?lang=en) (I was joking)
