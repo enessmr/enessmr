@@ -13,6 +13,7 @@
 - But what IS a war crime? *tilts head* Well, according to FOSS users, it's when google knows you searched 'how to install arch linux' at 3am!
 - I actually need help in qml
 - my bday is the day 9/11 happened (fr)
+- cuda sucks bc not oss (we actually need a nouveau ver rn)
 
 ### My roasts vith AI's
 - Claude
