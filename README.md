@@ -1,5 +1,9 @@
 ### 🚧 needs refactoring 🚧
 
+<div style="height: 400px width: 800px">
+  <video href=https://www.youtube.com/watch?v=IHqnAC2vExY></video>
+</div>
+
 ## About me(me)
 - I am not joking, i hate clippy due to not oss
 - I use Linux. You not probably know me for my [Hyprland configuration](https://github.com/enessmr/hypryoshi3)
