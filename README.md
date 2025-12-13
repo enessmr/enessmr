@@ -1,7 +1,14 @@
 ### 🚧 needs refactoring 🚧
 
-<div style="height: 400px width: 800px">
-  <video href=https://www.youtube.com/watch?v=IHqnAC2vExY></video>
+<div style="height: 400px; width: 800px;">
+  <iframe
+    width="800"
+    height="400"
+    src="https://www.youtube.com/embed/IHqnAC2vExY"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
 </div>
 
 ## About me(me)
