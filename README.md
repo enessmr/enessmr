@@ -1,5 +1,7 @@
 ### 🚧 needs refactoring 🚧
 
+<iframe src="https://www.youtube.com/embed/IHqnAC2vExY" width=800px height=800px></iframe>
+
 ## About me(me)
 - I am not joking, i hate clippy due to not oss
 - I use Linux. You not probably know me for my [Hyprland configuration](https://github.com/enessmr/hypryoshi3)
