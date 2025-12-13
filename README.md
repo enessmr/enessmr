@@ -1,8 +1,6 @@
 ### 🚧 needs refactoring 🚧
 
-<div style="height: 400px; width: 800px;">
   [](https://www.youtube.com/embed/IHqnAC2vExY)
-</div>
 
 ## About me(me)
 - I am not joking, i hate clippy due to not oss
