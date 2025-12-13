@@ -1,11 +1,7 @@
 ### 🚧 needs refactoring 🚧
 
 <div style="height: 400px; width: 800px;">
-  <iframe
-    width="800"
-    height="400"
-    src="https://www.youtube.com/embed/IHqnAC2vExY">
-  </iframe>
+  [](https://www.youtube.com/embed/IHqnAC2vExY)
 </div>
 
 ## About me(me)
