@@ -1,6 +1,6 @@
 ### 🚧 needs refactoring 🚧
 
-  [](https://www.youtube.com/embed/IHqnAC2vExY)
+https://www.youtube.com/embed/IHqnAC2vExY
 
 ## About me(me)
 - I am not joking, i hate clippy due to not oss
