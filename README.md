@@ -1,6 +1,8 @@
 ### 🚧 needs refactoring 🚧
 
 ## About me(me)
+
+Glitch: Yoshi spits out air instead of fruit juice
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ad5a5ca-8243-4aeb-b8ec-1fcc6943cfd0" />
 
 - I am not joking, i hate clippy due to not oss
