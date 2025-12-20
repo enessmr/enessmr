@@ -1,6 +1,8 @@
 ### 🚧 needs refactoring 🚧
 
 ## About me(me)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ad5a5ca-8243-4aeb-b8ec-1fcc6943cfd0" />
+
 - I am not joking, i hate clippy due to not oss
 - I use Linux. You not probably know me for my [Hyprland configuration](https://github.com/enessmr/hypryoshi3)
 - Grass died from being touched in a day
