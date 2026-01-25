@@ -1,4 +1,4 @@
-<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/59f343a4-2a21-49dd-b8c4-795dc3c0bc7f" />### 🚧 needs refactoring 🚧
+### 🚧 needs refactoring 🚧
 
 ## About me(me)
 
