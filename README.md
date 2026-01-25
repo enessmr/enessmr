@@ -1,9 +1,10 @@
-### 🚧 needs refactoring 🚧
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/59f343a4-2a21-49dd-b8c4-795dc3c0bc7f" />### 🚧 needs refactoring 🚧
 
 ## About me(me)
 
-Glitch: Yoshi spits out air instead of fruit juice
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ad5a5ca-8243-4aeb-b8ec-1fcc6943cfd0" />
+Glitch: Yoshi glitches  in the riding and spraying in first  person
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/1a232942-db1f-4b21-a4cb-6bbde66c4114" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8a933927-de6d-4fef-b54b-44e670568875" />
 
 - I am not joking, i hate clippy due to not oss
 - I use Linux. You not probably know me for my [Hyprland configuration](https://github.com/enessmr/hypryoshi3)
