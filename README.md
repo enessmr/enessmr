@@ -30,6 +30,9 @@ Glitch: Yoshi glitches  in the riding and spraying in first  person
 
 </details>
 
+### important info.
+so i started cooking hypryoshi3 again but i dont have that much time so sadly i cant cook every day...
+
 ### The legendary pc
 
 <details> <summary></summary>
