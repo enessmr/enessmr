@@ -11,7 +11,7 @@
 - I use Linux. You not probably know me for my [Hyprland configuration](https://github.com/enessmr/hypryoshi3)
 - Grass died from being touched in a day
 - I use vscode (fuck telemetry 💀😤)
-- I play sm64 (addiction b3313 🔥) ✌️
+- I play the holy duo series (mario+kart 🔥🔥🔥)
 - On android i play coop dx and b3313
 - I want to give myself [ear damage](https://www.tiktok.com/@theasmr.fairy/video/7512258047440424238?lang=en) (I was joking)
 - I fucking hate GMS but i have to :(
