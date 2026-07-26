@@ -1,10 +1,5 @@
 ### 🚧 needs refactoring 🚧
 
-
-<h1><b>SUPER GODOT TEST 64 YEAHAHAHAHAHAY (DEMO 0.5)</b></h1>
-
-- https://1024terabox.com/s/1KbvV2Crho5cQBc1mJYJ9gQ
-
 ## About me(me)
 
 - I am not joking, i hate clippy due to not oss
@@ -15,6 +10,7 @@
 - On android i play coop dx and b3313
 - I want to give myself [ear damage](https://www.tiktok.com/@theasmr.fairy/video/7512258047440424238?lang=en) (I was joking)
 - I fucking hate GMS but i have to :(
+- I meow to my games 😭
 
 <details>
 
