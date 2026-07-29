@@ -13,6 +13,13 @@
 - I meow to my games 😭
 
 <details>
+  <summary>Storage space is important :enrique::jonklerfromtemu:</summary>
+  <img width="1080" height="2400" alt="Screenshot_20260729-112629_Settings" src="https://github.com/user-attachments/assets/7f3469b1-f897-43c6-ba89-efbacf9c35b0" />
+<img width="1080" height="2400" alt="Screenshot_20260729-112617_Firefox Nightly" src="https://github.com/user-attachments/assets/957ad6c4-d70e-4439-9fa4-5b9e3f8459e3" />
+
+</details>
+
+<details>
 
 <summary>Extra stuff</summary>
   
